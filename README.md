@@ -18,12 +18,5 @@ A collection of FREE python and R scripts for website development, analysis, and
 - Test for originality using Originality.ai
 
 
-## Audit Examples
 
-Coming Soon
-
-
-## Analysis Examples
-
-Coming Soon
 
